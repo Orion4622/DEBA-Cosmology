@@ -21,7 +21,7 @@ DEBA is the first framework to:
 ## 📄 Papers
 
 - **[English Version (PDF)](Cosmology%20without%20Prior%20Geometry%20DEBA%20Deterministic%20Emergence%20By%20Actualization-Organizational%20.pdf.pdf)** - Full framework (14 pages)
-
+- **[Version Française (PDF)](DEBA  Deterministic Emergence By Actualization.pdf)** - Cadre complet DEBA (version originale)
 
 ---
 
