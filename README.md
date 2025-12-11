@@ -20,8 +20,8 @@ DEBA is the first framework to:
 
 ## 📄 Papers
 
-- **[English Version (PDF)](papers/DEBA_English_Professional.pdf)** - Full framework (14 pages)
-- **[French Version (PDF)](papers/DEBA_French.pdf)** - Version française originale
+- **[English Version (PDF)](Cosmology%20without%20Prior%20Geometry%20DEBA%20Deterministic%20Emergence%20By%20Actualization-Organizational%20.pdf.pdf)** - Full framework (14 pages)
+
 
 ---
 
@@ -125,7 +125,7 @@ This theoretical framework is legally protected:
   author={Debailleul, Michel},
   year={2025},
   note={INPI Deposit DSO2025028004},
-  url={https://github.com/[TON-USERNAME]/DEBA-Cosmology}
+  url={https://github.com/Orion4622/DEBA-Cosmology}
 }
 ```
 
