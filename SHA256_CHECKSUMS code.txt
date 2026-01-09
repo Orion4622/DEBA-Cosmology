@@ -1,0 +1,60 @@
+═══════════════════════════════════════════════════════════════════════════
+DEBA COSMOLOGY - CRYPTOGRAPHIC TIMESTAMP & INTELLECTUAL PROPERTY DECLARATION
+═══════════════════════════════════════════════════════════════════════════
+
+Author: Michel Debailleul
+ORCID: 0009-0003-1222-1433
+Affiliation: Independent Researcher (Master's in Geophysics, Université Libre de Bruxelles)
+Date: January 9, 2026, 23:55 UTC
+
+───────────────────────────────────────────────────────────────────────────
+FRENCH VERSION
+───────────────────────────────────────────────────────────────────────────
+Title: Cosmologie DEBA : Une Révolution Conceptuelle Post-Philosophique
+File: Cosmologie Une Révolution Conceptuelle Post-Philosophique.pdf
+SHA-256: A8DEBBD35427B18F3DA3BDBC776D81B645DDCE8EB06F107C261B81684D132AF2
+
+───────────────────────────────────────────────────────────────────────────
+ENGLISH VERSION (PRIMARY)
+───────────────────────────────────────────────────────────────────────────
+Title: DEBA Cosmology: A Post-Philosophical Conceptual Revolution
+File: DEBA Cosmology A Post-Philosophical Conceptual Revolution.pdf
+SHA-256: 6A7AB06813776B87AA1F253713365C0AC8122EEAF34313187AF28F67DFF3B00C
+
+───────────────────────────────────────────────────────────────────────────
+INTELLECTUAL PROPERTY STATUS
+───────────────────────────────────────────────────────────────────────────
+- Protected by French patent INPI (number confidential)
+- Published under Creative Commons CC BY 4.0 International License
+- Submitted to rxiVerse on January 9, 2026
+- Core concepts: Multi-bubble emergence, organizational flash, coherence-based
+  dark matter, adaptive dark energy, falsifiable predictions
+
+───────────────────────────────────────────────────────────────────────────
+CRYPTOGRAPHIC PROOF
+───────────────────────────────────────────────────────────────────────────
+These SHA-256 hashes establish cryptographic proof of:
+1. Document existence at this timestamp (January 9, 2026)
+2. Exact content integrity (any modification produces different hash)
+3. Priority and authorship by Michel Debailleul
+
+VERIFICATION: Anyone can recalculate these hashes from the original files
+to verify integrity and detect any unauthorized modifications.
+
+───────────────────────────────────────────────────────────────────────────
+WITNESSING & ARCHIVAL
+───────────────────────────────────────────────────────────────────────────
+This declaration is publicly witnessed via:
+- rxiVerse submission (pending review)
+- Public timestamp: January 9, 2026, 23:55 UTC
+- Archival locations: [to be added after public posting]
+
+───────────────────────────────────────────────────────────────────────────
+CONTACT
+───────────────────────────────────────────────────────────────────────────
+michel.debailleul@yahoo.fr
+ORCID: https://orcid.org/0009-0003-1222-1433
+
+═══════════════════════════════════════════════════════════════════════════
+END OF DECLARATION
+═══════════════════════════════════════════════════════════════════════════ 
