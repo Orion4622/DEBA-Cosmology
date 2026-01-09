@@ -1,0 +1,49 @@
+═══════════════════════════════════════════════════════════════
+DEBA COSMOLOGY - SHA-256 CHECKSUMS
+═══════════════════════════════════════════════════════════════
+
+LATEST VERSIONS (rxiVerse submission - January 9, 2026)
+-------------------------------------------------------
+
+ENGLISH VERSION (Primary):
+--------------------------
+File: DEBA Cosmology A Post-Philosophical Conceptual Revolution.pdf
+SHA-256: 6A7AB06813776B87AA1F253713365C0AC8122EEAF34313187AF28F67DFF3B00C
+
+FRENCH VERSION:
+---------------
+File: Cosmologie Une Révolution Conceptuelle Post-Philosophique.pdf
+SHA-256: A8DEBBD35427B18F3DA3BDBC776D81B645DDCE8EB06F107C261B81684D132AF2
+
+═══════════════════════════════════════════════════════════════
+VERIFICATION INSTRUCTIONS
+═══════════════════════════════════════════════════════════════
+
+To verify file integrity:
+
+Windows PowerShell:
+  Get-FileHash -Algorithm SHA256 "filename.pdf"
+
+Linux/Mac Terminal:
+  sha256sum filename.pdf
+
+Online tool:
+  https://emn178.github.io/online-tools/sha256_checksum.html
+
+The calculated hash MUST match exactly. Any difference indicates 
+file modification.
+
+═══════════════════════════════════════════════════════════════
+METADATA
+═══════════════════════════════════════════════════════════════
+
+Generated: January 9, 2026, 23:55 UTC
+Method: PowerShell Get-FileHash -Algorithm SHA256
+Author: Michel Debailleul (ORCID: 0009-0003-1222-1433)
+
+Intellectual Property:
+- Protected by French patent INPI (number confidential)
+- Licensed under CC BY 4.0 International
+- Submitted to rxiVerse on January 9, 2026
+
+═══════════════════════════════════════════════════════════════
