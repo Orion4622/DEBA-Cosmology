@@ -36,6 +36,22 @@ Geophysicist, Université Libre de Bruxelles
 ## 🎯 Key Results
 
 DEBA simultaneously resolves **9 major cosmological observations**:
+---
+1. ✅ **300 ultra-luminous JWST objects** at z > 10
+2. ✅ **Supermassive black holes** at z > 7 (impossible in ΛCDM)
+3. ✅ **Ultra-early galaxies** (GLIMPSE-16043)
+4. ✅ **CMB Cold Spot** (3σ temperature deficit)
+5. ✅ **Axis of Evil** (unexplained multipole alignment)
+6. ✅ **Hemispherical asymmetry** (statistical isotropy violation)
+7. ✅ **Hubble tension** (5σ discrepancy in H₀)
+8. ✅ **Dark matter** (without exotic particles)
+9. ✅ **Dark energy** (without exotic energy)
+
+**With 0 (zero) physical postulates.**
+
+---
+
+## 📚 Publications
 ### Latest: Euclid Data Analysis (February 2026)
 
 **Coherence: Evidence of a Fifth Functional Dimension in Euclid Data**
@@ -57,22 +73,6 @@ Empirical analysis of 200,000+ objects from 21 independent Euclid sky regions re
 **PDF:** [Coherence_Fifth_Dimension_Euclid.pdf](./Coherence_Fifth_Dimension_Euclid.pdf)
 
 ---
-1. ✅ **300 ultra-luminous JWST objects** at z > 10
-2. ✅ **Supermassive black holes** at z > 7 (impossible in ΛCDM)
-3. ✅ **Ultra-early galaxies** (GLIMPSE-16043)
-4. ✅ **CMB Cold Spot** (3σ temperature deficit)
-5. ✅ **Axis of Evil** (unexplained multipole alignment)
-6. ✅ **Hemispherical asymmetry** (statistical isotropy violation)
-7. ✅ **Hubble tension** (5σ discrepancy in H₀)
-8. ✅ **Dark matter** (without exotic particles)
-9. ✅ **Dark energy** (without exotic energy)
-
-**With 0 (zero) physical postulates.**
-
----
-
-## 📚 Publications
-
 ### Main Article: "300 JWST Objects Solved"
 
 | Platform | ID/DOI | Status | Files |
