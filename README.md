@@ -1,5 +1,6 @@
 # DEBA Cosmology: Deterministic Emergence By Actualization
-
+[![Figshare](https://img.shields.io/badge/Figshare-10.6084%2Fm9.figshare.31342435-orange)](https://doi.org/10.6084/m9.figshare.31342435)
+[![Zenodo Euclid](https://img.shields.io/badge/Zenodo%20Euclid-18635616-blue)](https://doi.org/10.5281/zenodo.18635616)
 [![Zenodo](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18061572-blue)](https://doi.org/10.5281/zenodo.18061572)
 [![HAL](https://img.shields.io/badge/HAL-hal--05432391-orange)](https://hal.science/hal-05432391)
 [![OSF](https://img.shields.io/badge/OSF-10.17605%2FOSF.IO%2FMFHBU-green)](https://doi.org/10.17605/OSF.IO/MFHBU)
