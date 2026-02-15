@@ -54,8 +54,6 @@ DEBA simultaneously resolves **9 major cosmological observations**:
 ## 📚 Publications
 ### Latest: Euclid Data Analysis (February 2026)
 
-### Latest: Euclid Data Analysis (February 2026)
-
 **Coherence: Evidence of a Fifth Functional Dimension in Euclid Data**
 
 Empirical analysis of 200,000+ objects from 21 independent Euclid sky regions revealing systematic dimensional reduction and emergence of a fifth functional (coherence) dimension.
