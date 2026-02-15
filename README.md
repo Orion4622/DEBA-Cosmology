@@ -36,7 +36,27 @@ Geophysicist, Université Libre de Bruxelles
 ## 🎯 Key Results
 
 DEBA simultaneously resolves **9 major cosmological observations**:
+### Latest: Euclid Data Analysis (February 2026)
 
+**Coherence: Evidence of a Fifth Functional Dimension in Euclid Data**
+
+Empirical analysis of 200,000+ objects from 21 independent Euclid sky regions revealing systematic dimensional reduction and emergence of a fifth functional (coherence) dimension.
+
+| Platform | DOI/ID | Status | Language |
+|----------|--------|--------|----------|
+| **Zenodo** | [TON_DOI_ZENODO](https://doi.org/TON_DOI_ZENODO) | ✅ Published | EN |
+| **OSF** | [TON_DOI_OSF](https://doi.org/TON_DOI_OSF) | ✅ Published | EN |
+| **Figshare** | [10.6084/m9.figshare.31342435](https://doi.org/10.6084/m9.figshare.31342435) | ✅ Published | EN/FR |
+
+**Key findings:**
+- Systematic reduction in observable space across all 21 regions  
+- Persistent photometric-morphological correlations  
+- Evidence of non-spatial coherence dimension  
+- Fully reproducible from ESA Sky public data
+
+**PDF:** [Coherence_Fifth_Dimension_Euclid.pdf](./Coherence_Fifth_Dimension_Euclid.pdf)
+
+---
 1. ✅ **300 ultra-luminous JWST objects** at z > 10
 2. ✅ **Supermassive black holes** at z > 7 (impossible in ΛCDM)
 3. ✅ **Ultra-early galaxies** (GLIMPSE-16043)
