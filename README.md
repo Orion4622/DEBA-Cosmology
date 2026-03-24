@@ -21,11 +21,13 @@
 - ✅ **Simultaneously explains 9 major cosmological observations** from a single mechanism
 - ✅ **Makes falsifiable predictions** testable with current JWST and Planck data
 
+...........
+
 <p align="center">
   <img src="Organizational%20Emergence%20Cosmology%20-%20DEBA%20Theory.png" 
        width="45%" alt="DEBA Theory EN"/>
   &nbsp;&nbsp;
-  <img src="Cosmologie%20d%27%C3%A9mergence%20organisationnelle%20DEBA.png" 
+  <img src="Cosmologie%20d%E2%80%99%C3%A9mergence%20organisationnelle%20DEBA.png" 
        width="45%" alt="Théorie DEBA FR"/>
 </p>
 
