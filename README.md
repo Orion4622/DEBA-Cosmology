@@ -23,13 +23,12 @@
 
 **Core principle:** All physics emerges from stochastic dynamics in an atemporal probabilistic space (C, μ).
 <p align="center">
-  <img src="Organizational_Emergence_Cosmology_-_DEBA_Theory.png" 
+  <img src="Organizational%20Emergence%20Cosmology%20-%20DEBA%20Theory.png" 
        width="45%" alt="DEBA Theory EN"/>
   &nbsp;&nbsp;
-  <img src="Cosmologie_d_émergence_organisationnelle_DEBA.png" 
+  <img src="Cosmologie%20d%27%C3%A9mergence%20organisationnelle%20DEBA.png" 
        width="45%" alt="Théorie DEBA FR"/>
 </p>
----
 
 ## 👤 Author
 
