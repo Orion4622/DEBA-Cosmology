@@ -21,7 +21,6 @@
 - ✅ **Simultaneously explains 9 major cosmological observations** from a single mechanism
 - ✅ **Makes falsifiable predictions** testable with current JWST and Planck data
 
-**Core principle:** All physics emerges from stochastic dynamics in an atemporal probabilistic space (C, μ).
 <p align="center">
   <img src="Organizational%20Emergence%20Cosmology%20-%20DEBA%20Theory.png" 
        width="45%" alt="DEBA Theory EN"/>
