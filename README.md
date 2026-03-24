@@ -92,14 +92,18 @@ Empirical analysis of 200,000+ objects from 21 independent Euclid sky regions re
 **PDFs:**
 - [Cosmology_of_Organizational_Emergence_-_DEBA.pdf](./Cosmology_of_Organizational_Emergence_-_DEBA.pdf) (EN)
 - [Cosmologie_d_émergence_organisationnelle_DEBA.pdf](./Cosmologie_d_émergence_organisationnelle_DEBA.pdf) (FR)
+
+---
+
+### Euclid Data Analysis (February 2026)
+
 **Key findings:**
-- Systematic reduction in observable space across all 21 regions  
-- Persistent photometric-morphological correlations  
-- Evidence of non-spatial coherence dimension  
+- Systematic reduction in observable space across all 21 regions
+- Persistent photometric-morphological correlations
+- Evidence of non-spatial coherence dimension
 - Fully reproducible from ESA Sky public data
 
 **PDF:** [Coherence_Fifth_Dimension_Euclid.pdf](./Coherence_Fifth_Dimension_Euclid.pdf)
-
 ---
 ---
 ### Main Article: "300 JWST Objects Solved"
