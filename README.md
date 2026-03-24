@@ -22,7 +22,13 @@
 - ✅ **Makes falsifiable predictions** testable with current JWST and Planck data
 
 **Core principle:** All physics emerges from stochastic dynamics in an atemporal probabilistic space (C, μ).
-
+<p align="center">
+  <img src="Organizational_Emergence_Cosmology_-_DEBA_Theory.png" 
+       width="45%" alt="DEBA Theory EN"/>
+  &nbsp;&nbsp;
+  <img src="Cosmologie_d_émergence_organisationnelle_DEBA.png" 
+       width="45%" alt="Théorie DEBA FR"/>
+</p>
 ---
 
 ## 👤 Author
