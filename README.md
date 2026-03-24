@@ -59,7 +59,18 @@ DEBA simultaneously resolves **9 major cosmological observations**:
 ---
 
 ## 📚 Publications
-### Last updated: March 24, 2026
+
+**Last updated:** March 24, 2026  
+**Version:** 3.0  
+**Status:** Published preprints - Peer review pending  
+**Changes:** Added core theory papers EN/FR (Zenodo 10.5281/zenodo.19134673), 
+EarthArXiv submission pending, updated Overview to reflect the central 
+proposition of DEBA: dark matter and dark energy do not exist as physical 
+substances — they are the two projections of a single organisational coherence 
+field Φ. Added DEBA infographics EN/FR illustrating the three structural levels: 
+Necessity, Contingency, Determination.
+
+
 **Coherence: Evidence of a Fifth Functional Dimension in Euclid Data**
 
 Empirical analysis of 200,000+ objects from 21 independent Euclid sky regions revealing systematic dimensional reduction and emergence of a fifth functional (coherence) dimension.
