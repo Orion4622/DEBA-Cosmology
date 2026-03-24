@@ -64,6 +64,18 @@ Empirical analysis of 200,000+ objects from 21 independent Euclid sky regions re
 | **Zenodo** | [10.5281/zenodo.18635616](https://doi.org/10.5281/zenodo.18635616) | ✅ Published | EN |
 | **Figshare** | [10.6084/m9.figshare.31342435](https://doi.org/10.6084/m9.figshare.31342435) | ✅ Published | EN/FR |
 
+### Core Theory: Organisational Emergence Cosmology (March 2026)
+
+**Organisational Emergence Cosmology — DEBA Theory: Deterministic Emergence by Actualization**
+
+| Platform | DOI/ID | Status | Language |
+|----------|--------|--------|----------|
+| **Zenodo** | [10.5281/zenodo.19134673](https://doi.org/10.5281/zenodo.19134673) | ✅ Published | EN |
+| **EarthArXiv** | pending | ⏳ Under review | EN |
+
+**PDFs:**
+- [Cosmology_of_Organizational_Emergence_-_DEBA.pdf](./Cosmology_of_Organizational_Emergence_-_DEBA.pdf) (EN)
+- [Cosmologie_d_émergence_organisationnelle_DEBA.pdf](./Cosmologie_d_émergence_organisationnelle_DEBA.pdf) (FR)
 **Key findings:**
 - Systematic reduction in observable space across all 21 regions  
 - Persistent photometric-morphological correlations  
